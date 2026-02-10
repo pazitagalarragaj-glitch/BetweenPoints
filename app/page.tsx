@@ -423,7 +423,7 @@ export default function Portfolio() {
               <p>
                 The ink paintings showed a way of living where human activity
                 was one of many elements of a balanced life. As expressed by
-                Taoism, the &quote;path&quot; is one that aspires to harmonize where
+                Taoism, the &quot;path&quot; is one that aspires to harmonize where
                 virtues such as humility, simplicity, and full physical and
                 spiritual well-being are achieved. Sustainability, as
                 exemplified by Taoism, entails seeking a balance within society
@@ -783,7 +783,9 @@ export default function Portfolio() {
                 I&apos;m exaggerating; and no, I didn&apos;t count, but there were far
                 more men than women.
               </p>
-
+              <p>
+                It&apos;s midnight, and my last meal was the one Emirates served on the flight from Rome. I&apos;m not hungry, but I might need to eat. I don&apos;t want to be woken up on the next flight, and I have no idea what the next twenty-four hours in India will look like. The options are simple: Subway or McDonald&apos;s. 
+              </p>
               <p>
                 While waiting for my order, my phone charging besides me, I sat
                 there observing the night travelers. There is a clear
@@ -800,7 +802,7 @@ export default function Portfolio() {
               <p>
                 I ate my burger and killed a couple of hours on my phone, mostly
                 reassuring my family that I&apos;m okay and catching up with friends.
-                When it&apos;s was time to board the plane, I finally see who is
+                When it was time to board the plane, I finally see who is
                 travelling with me. On the bus to the plane, I realize that out
                 of two hundred seats, there are six women. Five traveling with
                 their families, and me. And yes, this time I did count.
@@ -1266,7 +1268,7 @@ export default function Portfolio() {
                 little, I mostly nodded and smiled, drank my beer quietly, and
                 tried to grasp the rhythm of what was being said. It was harder
                 than any other time I&apos;d been surrounded by people I didn&apos;t know.
-                Usually, there&aposs another foreigner who doesn&apos;t speak the common
+                Usually, there&apos;s another foreigner who doesn&apos;t speak the common
                 language either, or the group is diverse enough that English
                 becomes the obvious choice. This time, I had to put in three
                 times the effort. There was no other option.
