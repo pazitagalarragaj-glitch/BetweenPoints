@@ -1564,5 +1564,10 @@ export default function Portfolio() {
       </footer>
       );
     </>
+    {/* THIS IS THE MISSING CONNECTION */}
+      {modal && <Modal onClose={() => setModal(false)} />}
+    </>
+  );
+      }
   );
 }
