@@ -237,7 +237,7 @@ export default function Portfolio() {
           >
             A global development and strategy profile by lived experience across
             Latin America, Europe, and Asia, translating complexity into
-            structured, sustainable action./
+            structured, sustainable action.
           </p>
 
           <div className="placard">
