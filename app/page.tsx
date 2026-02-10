@@ -1505,7 +1505,7 @@ export default function Portfolio() {
             <br />
             <strong>India:</strong> This exchange experience gave me access to
             the insides of corporate entrepreneurship and strategy in one of the
-            world's most complex markets.
+            world&apos;s most complex markets.
           </p>
           <span className="side-quest">
             <strong>Side Quest:</strong> Traveling across India allowed me to
