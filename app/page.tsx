@@ -1523,7 +1523,7 @@ export default function Portfolio() {
         </span>
         <span
           style={{
-            background: "#0841C9", //
+            background: "#0841C9",
             padding: "14px",
             borderRadius: "0 12px 12px 0",
           }}
@@ -1531,6 +1531,7 @@ export default function Portfolio() {
           <ArrowUpRight size={18} />
         </span>
       </button>
+
       {/* FOOTER */}
       <footer
         style={{
@@ -1550,24 +1551,10 @@ export default function Portfolio() {
         >
           © 2026 Maria Paz Galarraga. All Rights Reserved.
         </p>
-        <p
-          style={{
-            fontSize: "11px",
-            color: "var(--mustard)",
-            textTransform: "uppercase",
-            letterSpacing: "1px",
-          }}
-        >
-          Photographs and original text may not be reproduced without
-          permission.
-        </p>
       </footer>
-      );
-    </>
-    {/* THIS IS THE MISSING CONNECTION */}
+
+      {/* THIS IS THE CONNECTION - IT MUST BE INSIDE THE PARENTHESES */}
       {modal && <Modal onClose={() => setModal(false)} />}
     </>
-  );
-      }
   );
 }
