@@ -1,14 +1,10 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import {
   ArrowUpRight,
   Copy,
-  Mail,
-  Phone,
   X,
-  BookOpen,
-  Clock,
   ChevronDown,
   ChevronUp,
 } from "lucide-react";
@@ -313,7 +309,7 @@ export default function Portfolio() {
               width: "80%",
             }}
           >
-            "I am air, and trust are my roots"
+            <p>&quot;I am air, and trust are my roots&quot;</p>
           </blockquote>
         </div>
       </main>
@@ -357,7 +353,7 @@ export default function Portfolio() {
                 <span className="dropcap">T</span>he first thing my close
                 friends started asking me a few weeks after arriving in Beijing
                 was: What is your favorite thing about China? Among many of my
-                favorite things, my love-hate relationship with the city's
+                favorite things, my love-hate relationship with the city&apos;s
                 landscape stands out.
                 <img
                   src="/BeijingJournal.jpg"
@@ -374,7 +370,7 @@ export default function Portfolio() {
                 When I come to a new city/country, I imagine that I bring a huge
                 imaginary white canvas, where everything I see, hear, and taste
                 will then be turned into drawings on this page. As I get the
-                chance to explore Beijing, my ‘painting’ keeps drawing from the
+                chance to explore Beijing, my &lsquo;painting&rsquo; keeps drawing from the
                 grey, pale yellow, and dirty orange block buildings, long
                 never-ending highways - filled with black cars - and red, blue,
                 and green traditional Chinese buildings.
@@ -406,7 +402,7 @@ export default function Portfolio() {
                 While it is true that China is an immense country and holds many
                 cities with different infrastructure distributions within its
                 borders, as well as many different ways of life, I take my
-                painting as a reference for a somewhat “normal” life. Having had
+                painting as a reference for a somewhat &quot;normal&quot; life. Having had
                 the opportunity to visit the National Art Museum, I make a few
                 reflections on how the path has driven society to what it is
                 today and how we look at sustainable development toward the
@@ -416,18 +412,18 @@ export default function Portfolio() {
               <p>
                 The two museum rooms exhibited the ideal lifestyle of ancient
                 Chinese life and culture, portraying, above all, the idea of
-                living a harmonious and balanced life. Most of the art's
+                living a harmonious and balanced life. Most of the art&apos;s
                 composition showed tall mountains, vast lakes, and valleys,
                 occupied by small houses and tiny people. Elements such as
                 moving lines and faded ink colors depict how these individuals
                 integrate into the environment and not the environment
-                integrated into the individual's lifestyle.
+                integrated into the individual&apos;s lifestyle.
               </p>
 
               <p>
                 The ink paintings showed a way of living where human activity
                 was one of many elements of a balanced life. As expressed by
-                Taoism, the “path” is one that aspires to harmonize where
+                Taoism, the &quote;path&quot; is one that aspires to harmonize where
                 virtues such as humility, simplicity, and full physical and
                 spiritual well-being are achieved. Sustainability, as
                 exemplified by Taoism, entails seeking a balance within society
@@ -458,7 +454,7 @@ export default function Portfolio() {
                 I raise the question: What is our goal? Development, as we know
                 it, has taken the painting from a traditional Chinese ink piece
                 to a chaotic canvas full of man-made objects. Sustainable
-                development seems to suggest that we’ve lost track, and in order
+                development seems to suggest that we&apos;ve lost track, and in order
                 to achieve the 17 goals set, a retrospective analysis should be
                 made.
               </p>
@@ -500,12 +496,12 @@ export default function Portfolio() {
           <div className="journal-dropdown">
             <div className="journal-body">
               <p>
-                <span className="dropcap">I</span>t wasn’t until I arrived at
+                <span className="dropcap">I</span>t wasn&apos;t until I arrived at
                 the train station that I realized I had forgotten my passport.
                 With 30 seconds to think, I handed my bag to Tom and took the
                 metro back home. Time passed slowly, as if mocking me, testing
                 my patience and reminding me of my mistake. But if it wasn’t for
-                times patience, I would’ve missed my train.
+                times patience, I would&apos;ve missed my train.
                 <img
                   src="/ShanghaiJournal.JPG"
                   alt="Shanghai"
@@ -528,14 +524,14 @@ export default function Portfolio() {
                 into the city, skyscrapers adorned in lights rose around us,
                 announcing our arrival. A city like no other stood before me,
                 making three days enough to fall in love with China all over
-                again—a country harmonizing both the future and the past,
+                again. A country harmonizing both the future and the past,
                 allowing technology meet tradition and tradition to shape the
                 future.
               </p>
 
               <p>
                 Riding the train back home, some thoughts filled my mind.
-                Firstly, I couldn’t help but give Shanghai a color, as I do for
+                Firstly, I couldn&apos;t help but give Shanghai a color, as I do for
                 every city I visit. Different from most cities, such as Rome,
                 that has an analogue palette of warm colors or Beijing, which is
                 characterized by a scale of grey, blue, and white, Shanghai is a
@@ -549,15 +545,15 @@ export default function Portfolio() {
                 It is a city where colors ranging from red, and pink stand out
                 because of their contrast to metallic green. It is a city where
                 yellow meets purple and blue meets orange, a city where gray is
-                covered up by the enchantment of colors hiding underneath one's
-                gazing range—the reality of a city that holds both the future
+                covered up by the enchantment of colors hiding underneath one&apos;s
+                gazing range, the reality of a city that holds both the future
                 and past.
               </p>
 
               <p>
                 The ironic contrast between a utopic futuristic feeling and its
                 despotic reality is my second major takeaway. Walking across the
-                streets, a sense of being in one’s own childhood dreams fills up
+                streets, a sense of being in one&apos;s own childhood dreams fills up
                 the air. It is a city that allows one to believe flying cars,
                 extraterrestrial life and time traveling exists. While observing
                 its tall skyscrapers in the Pudong area and the uniqueness of
@@ -591,7 +587,7 @@ export default function Portfolio() {
                 only for the Chinese but for the world. As this city draws the
                 line between now and then, setting the point where China meets
                 the world and welcoming everyone to believe in the dream of a
-                future, where flying cars don't feel out of place.
+                future, where flying cars don&apos;t feel out of place.
               </p>
             </div>
           </div>
@@ -621,7 +617,7 @@ export default function Portfolio() {
             <div className="journal-body">
               <p>
                 <span className="dropcap">3</span>3 million people piled up in a
-                city with an area of only 82,239 km². “Piled up” seemed like the
+                city with an area of only 82,239 km². &quot;Piled up&quot; seemed like the
                 way to describe what I thought life would be like in the
                 second-largest populated city in the world. Yet, to my surprise,
                 this was not the feeling I got when touring the streets of
@@ -651,7 +647,7 @@ export default function Portfolio() {
                 covered the stars. Below the metro line, a labyrinth of roads
                 drove thousands of cars towards their destinations, and despite
                 the many signs suggesting millions of people leave here, the
-                roads weren't congested, the streets weren't crowded, and the
+                roads weren&apos;t congested, the streets weren&apos;t crowded, and the
                 metro was not full.
               </p>
 
@@ -674,7 +670,7 @@ export default function Portfolio() {
                 seems to be the ground floor from where you are standing is, in
                 fact, the 22nd floor of the building that rises from a different
                 ground level. Walking around the city feels like playing the
-                “snake and the ladder” board game one used to play as a child.
+                &quot;snake and the ladder&quot; board game one used to play as a child.
                 You might fall on the snake, sliding down closer to the finish
                 line, but if unlucky, the ladder will bring you back up again.
                 Just like that, one could reach the riverside as easily as
@@ -685,7 +681,7 @@ export default function Portfolio() {
                 Unlike other cities around the country, the two main rivers meet
                 noticeably divided by their characteristic colors, right in
                 front of the opera house. The Jialing meets the Yangtze River,
-                making this the city of the “two rivers and four banks”, where
+                making this the city of the &quot;two rivers and four banks&quot;, where
                 clear waters meet the famous Yellow River. The urban design aims
                 to bring life to the riverfront while working alongside a
                 conscious and climate-adapted resilient city objective.
@@ -716,8 +712,8 @@ export default function Portfolio() {
               <p>
                 It is unimaginable for many to live in a city with 33 million
                 people, yet somehow, while wandering around the city of spice,
-                crowds were never a problem but rather, how to say 'not spicy,
-                please' for our next noodle meal.
+                crowds were never a problem but rather, how to say &apos;not spicy,
+                please&apos; for our next noodle meal.
               </p>
             </div>
           </div>
@@ -768,7 +764,7 @@ export default function Portfolio() {
 
               <p>
                 Upon arriving in Dubai, I made my way to the terminal for my
-                flight to India. It wasn’t Emirates, but a low-cost airline. To
+                flight to India. It wasn&apos;t Emirates, but a low-cost airline. To
                 get there, I had to walk for fifteen minutes and then take a bus
                 for another fifteen.
               </p>
@@ -780,11 +776,11 @@ export default function Portfolio() {
 
               <p>
                 The terminal was small, the kind of small you expect in a
-                regional airport rather than one of the world’s busiest transit
-                hubs. Seven waiting areas, a McDonald’s, a Subway, a smoking
+                regional airport rather than one of the world&apos;s busiest transit
+                hubs. Seven waiting areas, a McDonald&apos;s, a Subway, a smoking
                 room, a praying room, a single women bathroom, and around six
-                hundred people. It wasn’t hard to notice the imbalance. Maybe
-                I’m exaggerating; and no, I didn’t count, but there were far
+                hundred people. It wasn&apos;t hard to notice the imbalance. Maybe
+                I&apos;m exaggerating; and no, I didn&apos;t count, but there were far
                 more men than women.
               </p>
 
@@ -803,8 +799,8 @@ export default function Portfolio() {
               </p>
               <p>
                 I ate my burger and killed a couple of hours on my phone, mostly
-                reassuring my family that I’m okay and catching up with friends.
-                When it’s was time to board the plane, I finally see who is
+                reassuring my family that I&apos;m okay and catching up with friends.
+                When it&apos;s was time to board the plane, I finally see who is
                 travelling with me. On the bus to the plane, I realize that out
                 of two hundred seats, there are six women. Five traveling with
                 their families, and me. And yes, this time I did count.
@@ -822,7 +818,7 @@ export default function Portfolio() {
               <p>
                 Around me, people are still arguing over overhead compartment,
                 voices rising, arms reaching, bags being forced into places they
-                don’t fit. The plane hasn’t taken off yet, and already there is
+                don&apos;t fit. The plane hasn&apos;t taken off yet, and already there is
                 stress. I fast my seatbelt and look straight ahead. The cultural
                 shock had already begun.
               </p>
@@ -837,14 +833,14 @@ export default function Portfolio() {
 
               <p>
                 My body shut down before my thoughts did. What if don’t like it?
-                What if I don’t make friends? What if I don’t adapt? With those
+                What if I don&apos;t make friends? What if I don’t adapt? With those
                 same thoughts weighing on my mind, I woke up as we landed. It
                 was only 5:45 a.m., and a long day lay ahead.
               </p>
 
               <p>
                 With that same fighting spirit, people stood up and prepared to
-                get off the plane. I wasn’t in a rush, but I realized that if I
+                get off the plane. I wasn&apos;t in a rush, but I realized that if I
                 waited my turn, it might never come. So as soon as I spotted a
                 little space in the aisle, I claimed it, got my bags ready, and
                 walked towards immigration.
@@ -855,22 +851,22 @@ export default function Portfolio() {
                 it’s my turn. As usual, I put on a smile and greet the officer
                 with a quiet good morning. He takes my passport, looks at it
                 with visible confusion, flips through the pages, and scans it.
-                “Where are you from?” He askes.
+                &quot;Where are you from?&quot; He askes.
               </p>
 
-              <p>“Ecuador”.</p>
+              <p>&quot;Ecuador&quot;.</p>
 
               <p>
-                His expression shifts. I get the sense he doesn’t know where
+                His expression shifts. I get the sense he doesn&apos;t know where
                 that is. As he reads through my visa, his face grows more
                 confused. He flips back and forth between pages, scanning,
-                reading. Then he looks up: “Why are you in Lucknow”.
+                reading. Then he looks up: &quot;Why are you in Lucknow&quot;.
               </p>
 
-              <p>“for studies” I answer, confident, almost cheerful.</p>
+              <p>&quot;for studies&quot; I answer, confident, almost cheerful.</p>
 
               <p>
-                He continues reading. Again and again. He doesn’t understand why
+                He continues reading. Again and again. He doesn&apos;t understand why
                 my passport is Ecuadorian but my visa was issued by the Indian
                 embassy in Colombian. I explained three times that there is no
                 Indian embassy in Ecuador, and that the embassy in Bogota serves
@@ -882,22 +878,22 @@ export default function Portfolio() {
                 there are two of them, both confused, reading and rereading my
                 visa, discussing something in Hindi, glancing at me from time to
                 time. I smile. After what feels like an hour, he takes a deep
-                breath and stamp my passport. “Welcome to India” he says.
+                breath and stamp my passport. &quot;Welcome to India&quot; he says.
               </p>
 
               <p>
                 As I walk out, I order an Uber and head toward the university.
                 The taxi leaves the airport highway and enters the city, I stare
-                through the window. I can’t belief I am in India. As we get
+                through the window. I can&apos;t belief I am in India. As we get
                 closer, the sound of honking rises and the traffic thickens.
-                It’s already 7:00 a.m., and life is starting in Lucknow.
+                It&apos;s already 7:00 a.m., and life is starting in Lucknow.
               </p>
 
               <p>
                 We drive through the center, past the markets, through crowds,
                 past some cows, and onto the highway. The city blurs past the
                 window, unfished buildings, dust rising from the road, colors I
-                don’t yet know how to read. By the time we arrive, the heat was
+                don&apos;t yet know how to read. By the time we arrive, the heat was
                 unbearable. Everything bothered me: the heat, the dust, the
                 hunger, the exhaustion. My clothes stick to my skin, thinning my
                 patience.
@@ -907,7 +903,7 @@ export default function Portfolio() {
                 I drop my bags, take a quick shower, and lie down for a moment.
                 Not long enough to rest, just long enough to breathe. Then I
                 step back outside and walk straight to the cafeteria in search
-                of food. I don’t know how things work here, where to stand, what
+                of food. I don&apos;t know how things work here, where to stand, what
                 to take, how to pay, but I trust that if I smile someone will
                 reach out and explain.
               </p>
@@ -920,10 +916,10 @@ export default function Portfolio() {
               </p>
 
               <p>
-                She asks what I’m doing here, why I chose India for my exchange
-                semester, how I’m finding it so far. She explains that the
+                She asks what I&apos;m doing here, why I chose India for my exchange
+                semester, how I&aposm finding it so far. She explains that the
                 canteen is covered by our school fees and that we can take
-                whatever we want. It’s open for breakfast, lunch, a snack around
+                whatever we want. It&apos;s open for breakfast, lunch, a snack around
                 4:00 p.m., and dinner. Practical information quietly reassuring.
               </p>
 
@@ -1008,7 +1004,7 @@ export default function Portfolio() {
                 than what I had imagined. It has sixteen hostel buildings where
                 all students live, faculty housing spread to the west of the
                 campus, and at its center the classrooms, the canteen, and the
-                football field. If you cross the field, you’ll find the
+                football field. If you cross the field, you&apos;ll find the
                 basketball courts, the tennis court, and what might be an old
                 volleyball court. Taking the street to the left leads to the
                 hospital, a large building that serves as the workplace for one
@@ -1089,7 +1085,7 @@ export default function Portfolio() {
 
               <p>
                 I knew that was the promise, the whole point of the app, yet for
-                some reason I hadn’t fully believed it. I think part of me still
+                some reason I hadn&apos;t fully believed it. I think part of me still
                 carried those tired clichés about India. Chaos over efficiency,
                 delays over precision, things working eventually but not on
                 time. However the driver arrived promptly pushing me out that
@@ -1100,7 +1096,7 @@ export default function Portfolio() {
               <p>
                 I washed the bedsheet covering my mattress and the big, heavy
                 blanket I had been given upon arrival. Over the years, living
-                away from the comforts of home, I’ve learned that a good night’s
+                away from the comforts of home, I&apos;ve learned that a good night&apos;s
                 sleep is essential. If I wanted to rest, I needed clean sheets
                 and a clean blanket, everything smelling fresh. Once they were
                 dry, I made the bed and lay down. I felt like I was waiting for
@@ -1111,10 +1107,10 @@ export default function Portfolio() {
               <p>
                 I needed to reconnect. I needed inspiration. I needed to find
                 the passion that had carried me all the way to India. I lay
-                there, waiting for life to feel real again. With time, I’ve
+                there, waiting for life to feel real again. With time, I&apos;ve
                 learned that the feeling of belonging only comes if one makes
                 the effort to belong. We hold in our hands the ability to adapt,
-                to learn, to fit in. It’s in our nature to want to be part of
+                to learn, to fit in. It&apos;s in our nature to want to be part of
                 something, a family, a friendship, a relationship, a community,
                 a belief system.
               </p>
@@ -1139,17 +1135,17 @@ export default function Portfolio() {
 
               <p>
                 Two days went by where thousands of questions flooded my mind.
-                Those kinds of questions you asks yourself when you’re
+                Those kinds of questions you asks yourself when you&apos;re
                 uncomfortable, when you doubt the next steps, when you start
                 doubting of the ones already taken. Just a twenty-two-year-old
                 girl lying on her bed, watching the fan spin above her,
-                wondering if she’d make it out alive. Dramatic, overthinking
+                wondering if she&apos;d make it out alive. Dramatic, overthinking
                 everything.
               </p>
 
               <p>
                 Like the quiet panic you feel when waiting for a message that
-                doesn’t arrive, refreshing your phone over and over again. Those
+                doesn&apos;t arrive, refreshing your phone over and over again. Those
                 days felt eternal. No one had answered my messages in the common
                 group chat, and I had no idea when other exchange students would
                 arrive. This time, snapping out of pilot mode was harder. It
@@ -1250,7 +1246,7 @@ export default function Portfolio() {
               <p>
                 We took a taxi back home, and everyone went back to unpacking.
                 That night I understood something: The people I had met that day
-                weren’t my people, not yet, but they were enough to show me that
+                weren&apos;t my people, not yet, but they were enough to show me that
                 I needed to look deeper.
               </p>
 
@@ -1269,8 +1265,8 @@ export default function Portfolio() {
                 switch to English to ask me a question. Since I understood very
                 little, I mostly nodded and smiled, drank my beer quietly, and
                 tried to grasp the rhythm of what was being said. It was harder
-                than any other time I’d been surrounded by people I didn’t know.
-                Usually, there’s another foreigner who doesn’t speak the common
+                than any other time I&apos;d been surrounded by people I didn&apos;t know.
+                Usually, there&aposs another foreigner who doesn&apos;t speak the common
                 language either, or the group is diverse enough that English
                 becomes the obvious choice. This time, I had to put in three
                 times the effort. There was no other option.
@@ -1290,23 +1286,23 @@ export default function Portfolio() {
 
               <p>
                 Our curious eyes took in the stores, the people, the noise, the
-                restaurants, while people’s eyes lingered on us just as much.
+                restaurants, while people&apos;s eyes lingered on us just as much.
                 Hours passed, and they were still trying to sort out the SIM
                 subscriptions. As I stood outside the shop waiting, a girl
                 across the street stared at me, smiling, giggling. After a
                 while, I waved. With visible shyness, she waved back, laughing
-                and whispering into her brothers’ ear. They crossed the street
+                and whispering into her brothers&apos; ear. They crossed the street
                 towards us.
               </p>
 
               <p>
-                In a nervous voice, with a giggly smile, she said to me, “you
-                are beautiful”. I smiled back. “You are beautiful too! What’s
-                your name?” “Diya,” she said. She told me she was twelve and
+                In a nervous voice, with a giggly smile, she said to me, &quot;you
+                are beautiful&quot;. I smiled back. &quot;You are beautiful too! What&apos;s
+                your name?&quot; &quot;Diya,&quot; she said. She told me she was twelve and
                 that it was the first time she had seen a foreigner. She said
                 she thought I looked beautiful and that she was happy we could
                 finally talk. Her brother had been pushing her to come say
-                hello, but she’d been too shy. Politely, she asked if we could
+                hello, but she&apos;d been too shy. Politely, she asked if we could
                 take a picture now that I was here. And so we did. My first
                 picture with a stranger, the first of many.
               </p>
@@ -1340,9 +1336,9 @@ export default function Portfolio() {
 
               <p>
                 Later that night, we gathered again in the living room. This
-                time, it wasn’t just beers but some six-euro bottles of vodka
+                time, it wasn&apos;t just beers but some six-euro bottles of vodka
                 too. With a bit of liquid courage and a gentle push, the walls
-                we’d all been carrying came down. That’s when I met the ones who
+                we&apos;d all been carrying came down. That&apos;s when I met the ones who
                 would become my people.
               </p>
 
@@ -1360,7 +1356,7 @@ export default function Portfolio() {
                 Nahel and Flo stood out because of their outgoing spirit,
                 unafraid, genuinely excited to be starting a new adventure
                 across the world. They had been best friends for a while, and
-                each other’s presence, among a crowd of unknown faces, seemed to
+                each other&apos;s presence, among a crowd of unknown faces, seemed to
                 give them the confidence to be as open and friendly as possible.
                 It was clear they were simply there to enjoy themselves. Their
                 happiness was contagious, making anyone feel comfortable, at
@@ -1370,7 +1366,7 @@ export default function Portfolio() {
               <p>
                 Louise and Solal were a little less loud, but with the same lack
                 of fear for the unknown in their eyes. We talked for a while in
-                Spanish, I’m guessing alcohol helped them piece together what
+                Spanish, I&apos;m guessing alcohol helped them piece together what
                 they remembered from high school. They smiled easily, made
                 jokes, and from time to time translated things into English,
                 making sure I felt included, making me feel part of something
