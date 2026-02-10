@@ -12,7 +12,7 @@
     "next": "15.5.7",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "lucide-react": "latest"
+    "lucide-react": "latest",
     "@vercel/analytics": "latest"
   },
   "devDependencies": {
