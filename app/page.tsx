@@ -209,7 +209,7 @@ export default function Portfolio() {
     <>
       <style>{CSS}</style>
       <nav className="nav">
-        <span className="nav-name">Ma. Paz Galarraga J.</span>
+        <span className="nav-name">Ma. Paz Galárraga J.</span>
         <div className="nav-links">
           <a href="#journal">Journal</a>
           <a href="#gallery">Gallery</a> {/* Added this line */}
@@ -1549,7 +1549,7 @@ export default function Portfolio() {
             marginBottom: "10px",
           }}
         >
-          © 2026 Maria Paz Galarraga. All Rights Reserved.
+          © 2026 María Paz Galárraga. All Rights Reserved.
         </p>
       </footer>
 
