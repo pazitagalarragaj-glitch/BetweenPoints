@@ -919,7 +919,7 @@ export default function Portfolio() {
 
               <p>
                 She asks what I&apos;m doing here, why I chose India for my exchange
-                semester, how I&aposm finding it so far. She explains that the
+                semester, how I&apos;m finding it so far. She explains that the
                 canteen is covered by our school fees and that we can take
                 whatever we want. It&apos;s open for breakfast, lunch, a snack around
                 4:00 p.m., and dinner. Practical information quietly reassuring.
