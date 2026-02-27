@@ -1067,7 +1067,7 @@ export default function Portfolio() {
               </p>
 
               <p>
-                The heat had made the air feel heavy as I unpacked by bags,
+                The heat had made the air feel heavy as I unpacked my bags,
                 sorting my cloths into a closet that had been empty for a while.
                 I folded my t-shirt, my pants, my jumpers and my jackets. I
                 organized my shoes, my books and my cameras. I made sure my room
